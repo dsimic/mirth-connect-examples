@@ -1,0 +1,27 @@
+{
+    "PID": {
+        "givenName": "FIRSTNAME",
+        "familyName": "LASTNAME",
+        "sex": "M",
+        "internalId": "1234",
+        "birthDateTime": "19870106"
+    },
+    "PV1": {
+        "refDoctorFamilyName": "Villegas",
+        "refDoctorGivenName": "Juan"
+    },
+    "ORC": {
+        "orderStatus": "SCHEDULED"
+    },
+    "OBR": {
+        "universalServiceId": {
+            "identifier": "Che",
+            "text": "CHEST"
+        },
+        "diagnosticServSectId": {
+            "id": "CT"
+        } ,
+        "priority": "ROUTINE",
+        "scheduledDateTime": "20160223"
+    }
+}
